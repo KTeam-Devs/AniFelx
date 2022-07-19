@@ -1,25 +1,25 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <div align="center">
-    <a href="https://github.com/chirag-droid/animeflix">
+    <a href="https://github.com/chirag-droid/AniFlex">
       <img src="https://aniflix.pro/favicon.ico" alt="Logo">
     </a>
-    <h3>Animeflix - Watch animes online</h3>
+    <h3>AniFlex - Asia - Watch animes online</h3>
     <!-- REPOSITORY INFO BADGES -->
-    <a href="https://discord.gg/4UPU8etvae">
+    <a href="#">
       <img src="https://img.shields.io/discord/971304939525644298?label=discord&logo=discord&color=5460e6&style=flat-square&labelColor=2b2f35">
     </a>
     <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">
-      <img src="https://img.shields.io/github/license/chirag-droid/animeflix?logo=gnu&color=a32d2a&labelColor=333&logoColor=fff&style=flat-square">
+      <img src="https://img.shields.io/github/license/KTeam-Devs/AniFlex?logo=gnu&color=a32d2a&labelColor=333&logoColor=fff&style=flat-square">
     </a>
-    <a href="https://github.com/chirag-droid/animeflix/stargazers">
-      <img src="https://img.shields.io/github/stars/chirag-droid/animeflix?style=flat-square" alt="Github Stars">
+    <a href="https://github.com/KTeam-Devs/AniFlex/stargazers">
+      <img src="https://img.shields.io/github/stars/KTeam-Devs/AniFlex?style=flat-square" alt="Github Stars">
     </a>
-    <a href="https://github.com/chirag-droid/issues">
-      <img src="https://img.shields.io/github/issues/chirag-droid/animeflix?style=flat-square">
+    <a href="https://github.com/KTeam-Devs/issues">
+      <img src="https://img.shields.io/github/issues/KTeam-Devs/AniFlex?style=flat-square">
     </a>
-    <a href="https://github.com/chirag-droid/forks">
-      <img src="https://img.shields.io/github/forks/chirag-droid/animeflix?style=flat-square">
+    <a href="https://github.com/KTeam-Devs/forks">
+      <img src="https://img.shields.io/github/forks/KTeam-Devs/AniFlex?style=flat-square">
     </a>
   </div>
 
@@ -81,18 +81,18 @@ Following are the recommended online deployment services which are tested to wor
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/NBfBbp?referralCode=km83_N)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fchirag-droid%2Fanimeflix)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FKTeam-Devs%2FAniFlex)
 
-[![Deploy with netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chirag-droid/animeflix)
+[![Deploy with netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/KTeam-Devs/AniFlex)
 
 ## Docker Deployment
 
-The docker images for this app is available at dockerhub. [chiragdroid/animeflix](https://hub.docker.com/repository/docker/chiragdroid/animeflix).
+The docker images for this app is available at dockerhub. [KTeam-Devs/AniFlex](https://hub.docker.com/repository/docker/KTeam-Devs/AniFlex).
 
 Run it easily using this command
 
 ```
-docker run -p 3000:3000 chiragdroid/animeflix
+docker run -p 3000:3000 KTeam-Devs/AniFlex
 ```
 
 This will start animeflix at port 3000. You can change the port by doing `-p <port>:3000`,
@@ -105,7 +105,7 @@ You need to have `nodejs` and `git` installed on your pc for following the intru
 
 First download the repository using
 ```
-git clone https://github.com/chirag-droid/animeflix
+git clone https://github.com/KTean-Devs/AniFlex
 ```
 
 This should download this repository to your computer. Next, to download the dependencies run
@@ -120,7 +120,3 @@ npm run start
 ```
 
 This will start the app on http://localhost:3000
-
-## Sponsor this project
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chiragdroid)
