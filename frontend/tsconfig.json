@@ -1,0 +1,16 @@
+{
+  "extends": "@animeflix/tsconfig/nextjs.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": ["./components/*"],
+      "@hooks/*": ["./hooks/*"],
+      "@utility/*": ["./utility/*"],
+      "@styles/*": ["./styles/*"],
+      "@store/*": ["./store/*"],
+      "@slices/*": ["./store/slices/*"]
+    }
+  },
+  "include": ["**/*.ts", "**/*.jsx", "**/*.tsx"],
+  "exclude": ["node_modules"]
+}
