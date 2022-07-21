@@ -9,6 +9,7 @@ import Banner from '@components/anime/Banner';
 import Section from '@components/anime/Section';
 import Header from '@components/Header';
 import progressBar from '@components/Progress';
+import Footer from 'components/Footer';
 
 export const getServerSideProps = async () => {
   const data = await indexPage({
@@ -65,6 +66,8 @@ const Index = ({
 
       <Section title="Popular" animeList={popular.media} />
       <Section title="Top Rated (All time)" animeList={topRated.media} />
+
+      <Footer />
     </>
   );
 };

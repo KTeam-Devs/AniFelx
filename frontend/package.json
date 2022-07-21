@@ -4,15 +4,16 @@
   "private": true,
   "license": "AGPL-3.0",
   "author": {
-    "name": "Chirag Singla",
-    "email": "chirag.singla.pi@gmail.com",
-    "url": "https://github.com/chirag-droid"
+    "name": "KTeam",
+    "email": "kirito234875@gmail.com",
+    "url": "https://github.com/KTeam-Devs"
   },
   "scripts": {
     "dev": "next dev",
     "lint": "next lint",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "prettier": "prettier ."
   },
   "dependencies": {
     "@animeflix/api": "*",
@@ -24,6 +25,7 @@
     "next": "latest",
     "next-pwa": "^5.5.4",
     "next-seo": "^5.4.0",
+    "prettier": "^2.7.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.2",
