@@ -4,8 +4,8 @@
   "description": "The backend api used by animeflix",
   "main": "./dist/api.js",
   "types": "./dist/api.d.ts",
-  "repository": "https://github.com/chirag-droid/animeflix",
-  "author": "Chirag Singla <chirag.singla.pi@gmail.com>",
+  "repository": "https://github.com/KTeam-Devs/AnifFelx",
+  "author": "KTeam-Devs",
   "license": "AGPL-3.0",
   "private": true,
   "files": [
