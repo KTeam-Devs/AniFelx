@@ -18,7 +18,7 @@
     <a href="https://github.com/KTeam-Devs/AniFelx/issues">
       <img src="https://img.shields.io/github/issues/KTeam-Devs/AniFlex?style=flat-square">
     </a>
-    <a href="https://github.com/KTeam-Devs/forks">
+    <a href="https://github.com/KTeam-Devs/AniFelx/forks">
       <img src="https://img.shields.io/github/forks/KTeam-Devs/AniFlex?style=flat-square">
     </a>
   </div>
