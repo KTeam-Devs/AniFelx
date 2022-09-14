@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <div align="center">
-    <a href="https://github.com/chirag-droid/AniFlex">
+    <a href="https://github.com/KTeam-Devs/AniFlex">
       <img src="https://aniflix.pro/favicon.ico" alt="Logo">
     </a>
     <h3>AniFlex - Asia - Watch animes online</h3>
@@ -15,7 +15,7 @@
     <a href="https://github.com/KTeam-Devs/AniFlex/stargazers">
       <img src="https://img.shields.io/github/stars/KTeam-Devs/AniFlex?style=flat-square" alt="Github Stars">
     </a>
-    <a href="https://github.com/KTeam-Devs/issues">
+    <a href="https://github.com/KTeam-Devs/AniFelx/issues">
       <img src="https://img.shields.io/github/issues/KTeam-Devs/AniFlex?style=flat-square">
     </a>
     <a href="https://github.com/KTeam-Devs/forks">
