@@ -13,6 +13,6 @@
     }
 
     body {
-        @apply font-sans bg-black
+        @apply font-sans bg-gray-800
     }
 }
